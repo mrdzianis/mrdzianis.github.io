@@ -1,0 +1,5 @@
+vc=67
+y=hello\nworld
+h0=hello<br>%1$s<br>%2$s<br>%3$s<br>w<b>or</b>ld
+h=hello<br>%1$s<br>%3$s<br>w<b>or</b>ld
+h=hello<br>%1$s<br>%2$s<br>w<b>or</b>ld
